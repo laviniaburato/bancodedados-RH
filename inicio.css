@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(133, 70, 171);
+}
+
+form {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    background: 125, 158, 156;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: Cambria;
+    font-size: xx-large;
+    font-style: inherit;
+    text-align: center;
+}
